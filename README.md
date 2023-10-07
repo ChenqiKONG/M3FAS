@@ -3,7 +3,7 @@
 <p align="center">
  <img width="70%" src="./Figs/teaser.png" />
 </p>
-Illustration of M3FAS system. The mobile device employs the front camera to capture the input RGB face photo. Meanwhile, the top speaker emits a customized acoustic signal, and the microphone collects the reflected signal modulated by the live/spoof face. The captured face picture and acoustic recording are sequentially fed forward to M$^3$FAS for final decision-making.
+Illustration of M3FAS system. The mobile device employs the front camera to capture the input RGB face photo. Meanwhile, the top speaker emits a customized acoustic signal, and the microphone collects the reflected signal modulated by the live/spoof face. The captured face picture and acoustic recording are sequentially fed forward to M3FAS for final decision-making.
 
 # Dataset
 https://portland-my.sharepoint.com/:f:/g/personal/cqkong2-c_my_cityu_edu_hk/ElqjO09_fUtOgyg_5u4s7-4BZTKK7GPhpn9xj_JDtn6vKg?e=B3h4gq
