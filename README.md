@@ -1,5 +1,5 @@
 # Introduction
-**Pytorch implementation of "M<sup>3</sup>FAS: An Accurate and Robust MultiModal Mobile Face Anti-Spoofing System".**
+**Pytorch implementation of "M<sup>3</sup>FAS: An Accurate and Robust MultiModal Mobile Face Anti-Spoofing System", IEEE TDSC 2024.**
 <p align="center">
  <img width="70%" src="./Figs/teaser.png" />
 </p>
