@@ -21,10 +21,11 @@ See environment.txt
 
 # Citation
 ```
-@article{kong2023m3fas,
-  title={M3fas: An accurate and robust multimodal mobile face anti-spoofing system},
+@article{kong2024m,
+  title={M $\^{}$\{$3$\}$ $ FAS: An Accurate and Robust MultiModal Mobile Face Anti-Spoofing System},
   author={Kong, Chenqi and Zheng, Kexin and Liu, Yibing and Wang, Shiqi and Rocha, Anderson and Li, Haoliang},
-  journal={arXiv preprint arXiv:2301.12831},
-  year={2023}
+  journal={IEEE Transactions on Dependable and Secure Computing},
+  year={2024},
+  publisher={IEEE}
 }
  ```
